@@ -2,4 +2,5 @@
 Howdy.
 
 These are some [stupid](http://www.stupid.com) edits.
-And more.
+
+Resolved the formerly CONFLICTING CHANGES!!!
